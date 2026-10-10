@@ -73,12 +73,6 @@ Visit my [GitHub profile](https://github.com/briannjuguna882-a11y) to explore my
 
 > My goal is to combine programming and financial knowledge to develop intelligent trading tools.
 
-## About Me
-
-Hi, I'm **Brian Njuguna** 👋
-
-I'm a professional trader and investor learning *software development* and `Python` to build automated trading bots.
-
 ### My Interests
 
 * Financial markets 📈
